@@ -3030,6 +3030,14 @@
     "Modified": "2/25/2021 9:57:06 AM"
   },
   {
+    "ID": "emoticonMathModule",
+    "Name": "Emoticon Math",
+    "Pages": [
+      "emoticonMathModule_pg1"
+    ],
+    "Modified": "3/5/2021 7:43:36 PM"
+  },
+  {
     "ID": "EmotiguyIdentification",
     "Name": "Emotiguy Identification",
     "Pages": [
@@ -4338,6 +4346,14 @@
       "qSwedishMaze_pg3"
     ],
     "Modified": "2/25/2021 10:19:34 AM"
+  },
+  {
+    "ID": "CaptchaModule",
+    "Name": "I'm Not a Robot",
+    "Pages": [
+      "CaptchaModule_pg1"
+    ],
+    "Modified": "3/5/2021 7:43:47 PM"
   },
   {
     "ID": "increasingIndices",
