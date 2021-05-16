@@ -3797,7 +3797,7 @@
     "Pages": [
       "ForeignExchangeRates_pg1"
     ],
-    "Modified": "2/25/2021 10:02:23 AM"
+    "Modified": "5/15/2021 10:51:46 PM"
   },
   {
     "ID": "ForgetAnyColor",
@@ -6596,7 +6596,7 @@
       "notConnectionCheck_pg1",
       "notConnectionCheck_pg2"
     ],
-    "Modified": "3/14/2021 9:50:44 PM"
+    "Modified": "5/15/2021 11:02:16 PM"
   },
   {
     "ID": "notCoordinates",
@@ -9363,15 +9363,9 @@
       "StockImages_pg1",
       "StockImages_pg2",
       "StockImages_pg3",
-      "StockImages_pg4",
-      "StockImages_pg5",
-      "StockImages_pg6",
-      "StockImages_pg7",
-      "StockImages_pg8",
-      "StockImages_pg9",
-      "StockImages_pg10"
+      "StockImages_pg4"
     ],
-    "Modified": "5/11/2021 2:10:31 AM"
+    "Modified": "5/15/2021 11:12:38 PM"
   },
   {
     "ID": "stoichiometryModule",
@@ -9854,7 +9848,7 @@
       "TheBioscanner_pg1",
       "TheBioscanner_pg2"
     ],
-    "Modified": "2/25/2021 11:25:33 AM"
+    "Modified": "5/15/2021 11:14:46 PM"
   },
   {
     "ID": "TheBlackPage",
@@ -11221,7 +11215,7 @@
       "unorderedKeys_pg1",
       "unorderedKeys_pg2"
     ],
-    "Modified": "5/15/2021 2:21:19 AM"
+    "Modified": "5/15/2021 11:19:27 PM"
   },
   {
     "ID": "UnownCipher",
