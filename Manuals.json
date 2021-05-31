@@ -1360,7 +1360,7 @@
       "breakfastEgg_pg1",
       "breakfastEgg_pg2"
     ],
-    "Modified": "5/15/2021 1:39:17 AM"
+    "Modified": "2021-05-30 8:50:02 PM"
   },
   {
     "ID": "breaktime",
@@ -1525,7 +1525,7 @@
       "busyBeaver_pg1",
       "busyBeaver_pg2"
     ],
-    "Modified": "2/25/2021 9:36:16 AM"
+    "Modified": "2021-05-30 8:50:25 PM"
   },
   {
     "ID": "xelButterflies",
@@ -2421,7 +2421,7 @@
       "countToSixtynineThousandFourHundredAndTwenty_pg1",
       "countToSixtynineThousandFourHundredAndTwenty_pg2"
     ],
-    "Modified": "5/11/2021 1:40:48 AM"
+    "Modified": "2021-05-30 8:53:31 PM"
   },
   {
     "ID": "countdown",
@@ -2537,7 +2537,7 @@
       "CruelKeypads_pg1",
       "CruelKeypads_pg2"
     ],
-    "Modified": "2/25/2021 9:48:05 AM"
+    "Modified": "2021-05-30 8:54:01 PM"
   },
   {
     "ID": "matchemcruel",
@@ -2609,7 +2609,7 @@
     "Pages": [
       "CrypticPassword_pg1"
     ],
-    "Modified": "2/25/2021 9:49:52 AM"
+    "Modified": "2021-05-30 8:54:16 PM"
   },
   {
     "ID": "CryptModule",
@@ -3153,7 +3153,7 @@
       "ksmDreamcipher_pg2",
       "ksmDreamcipher_pg3"
     ],
-    "Modified": "2/25/2021 9:54:45 AM"
+    "Modified": "2021-05-30 8:55:59 PM"
   },
   {
     "ID": "DIWindow",
@@ -3301,7 +3301,7 @@
     "Pages": [
       "emoticonMathModule_pg1"
     ],
-    "Modified": "3/5/2021 7:43:36 PM"
+    "Modified": "2021-05-30 8:56:29 PM"
   },
   {
     "ID": "EmotiguyIdentification",
@@ -4209,20 +4209,20 @@
     "Modified": "2/25/2021 10:13:13 AM"
   },
   {
-    "ID": "SBgolfModule",
-    "Name": "Golf",
-    "Pages": [
-      "SBgolfModule_pg1"
-    ],
-    "Modified": "2/25/2021 10:13:11 AM"
-  },
-  {
     "ID": "golf",
     "Name": "Golf",
     "Pages": [
       "golf_pg1"
     ],
     "Modified": "5/11/2021 1:29:34 AM"
+  },
+  {
+    "ID": "SBgolfModule",
+    "Name": "Golf",
+    "Pages": [
+      "SBgolfModule_pg1"
+    ],
+    "Modified": "2/25/2021 10:13:11 AM"
   },
   {
     "ID": "goofysgame",
@@ -4416,7 +4416,7 @@
       "hereditaryBaseNotationModule_pg2",
       "hereditaryBaseNotationModule_pg3"
     ],
-    "Modified": "3/31/2021 1:48:01 PM"
+    "Modified": "2021-05-30 9:00:24 PM"
   },
   {
     "ID": "EternitySDec",
@@ -4666,7 +4666,7 @@
     "Pages": [
       "identifrac_pg1"
     ],
-    "Modified": "3/7/2021 11:30:31 PM"
+    "Modified": "2021-05-30 9:01:25 PM"
   },
   {
     "ID": "identifyingSoulless",
@@ -4711,7 +4711,7 @@
       "ikeaPlushies_pg2",
       "ikeaPlushies_pg3"
     ],
-    "Modified": "5/17/2021 12:46:26 PM"
+    "Modified": "2021-05-30 9:01:31 PM"
   },
   {
     "ID": "CaptchaModule",
@@ -5445,7 +5445,7 @@
       "KritLockpickMaze_pg3",
       "KritLockpickMaze_pg4"
     ],
-    "Modified": "5/11/2021 1:53:07 AM"
+    "Modified": "2021-05-30 9:04:14 PM"
   },
   {
     "ID": "Logging",
@@ -5706,7 +5706,7 @@
     "Pages": [
       "marqueeMorseModule_pg1"
     ],
-    "Modified": "5/18/2021 12:21:04 AM"
+    "Modified": "2021-05-30 9:05:11 PM"
   },
   {
     "ID": "mashematics",
@@ -6207,7 +6207,7 @@
     "Pages": [
       "ModuleMaze_pg1"
     ],
-    "Modified": "2/25/2021 10:35:00 AM"
+    "Modified": "2021-05-30 9:06:45 PM"
   },
   {
     "ID": "moduleMovements",
@@ -6293,7 +6293,7 @@
       "morseButtons_pg2",
       "morseButtons_pg3"
     ],
-    "Modified": "2/25/2021 10:35:58 AM"
+    "Modified": "2021-05-30 9:07:07 PM"
   },
   {
     "ID": "Morse",
@@ -6383,7 +6383,7 @@
       "R4YMultiColoredSwitches_pg1",
       "R4YMultiColoredSwitches_pg2"
     ],
-    "Modified": "3/7/2021 11:46:51 PM"
+    "Modified": "2021-05-30 9:07:29 PM"
   },
   {
     "ID": "MultipleWidgets",
@@ -6961,7 +6961,7 @@
     "Pages": [
       "NumericalKnightMovement_pg1"
     ],
-    "Modified": "2/25/2021 10:41:41 AM"
+    "Modified": "2021-05-30 9:09:33 PM"
   },
   {
     "ID": "numpath",
@@ -7114,7 +7114,7 @@
       "organizationModule_pg3",
       "organizationModule_pg4"
     ],
-    "Modified": "2/25/2021 10:45:14 AM"
+    "Modified": "2021-05-30 9:10:06 PM"
   },
   {
     "ID": "OrientationCube",
@@ -7309,7 +7309,7 @@
     "Pages": [
       "pawns_pg1"
     ],
-    "Modified": "5/11/2021 1:30:12 AM"
+    "Modified": "2021-05-30 9:10:42 PM"
   },
   {
     "ID": "lgndPayRespects",
@@ -8932,7 +8932,7 @@
       "SimonShapesModule_pg1",
       "SimonShapesModule_pg2"
     ],
-    "Modified": "5/11/2021 1:30:31 AM"
+    "Modified": "2021-05-30 9:16:25 PM"
   },
   {
     "ID": "SimonShoutsModule",
@@ -8940,7 +8940,7 @@
     "Pages": [
       "SimonShoutsModule_pg1"
     ],
-    "Modified": "5/17/2021 12:30:01 PM"
+    "Modified": "2021-05-30 9:16:27 PM"
   },
   {
     "ID": "SimonShrieksModule",
@@ -9060,7 +9060,7 @@
     "Pages": [
       "simonStumbles_pg1"
     ],
-    "Modified": "2/25/2021 11:15:44 AM"
+    "Modified": "2021-05-30 9:17:01 PM"
   },
   {
     "ID": "simonSubdivides",
@@ -9078,7 +9078,7 @@
       "simonSupports_pg1",
       "simonSupports_pg2"
     ],
-    "Modified": "3/11/2021 7:55:06 AM"
+    "Modified": "2021-05-30 9:17:05 PM"
   },
   {
     "ID": "simonSwindles",
@@ -9326,7 +9326,7 @@
       "SouvenirModule_pg6",
       "SouvenirModule_pg7"
     ],
-    "Modified": "5/17/2021 1:03:49 PM"
+    "Modified": "2021-05-30 9:18:00 PM"
   },
   {
     "ID": "soyBeans",
@@ -10027,9 +10027,12 @@
     "ID": "TheArena",
     "Name": "The Arena",
     "Pages": [
-      "TheArena_pg1"
+      "TheArena_pg1",
+      "TheArena_pg2",
+      "TheArena_pg3",
+      "TheArena_pg4"
     ],
-    "Modified": "2/25/2021 11:25:29 AM"
+    "Modified": "2021-05-30 9:20:41 PM"
   },
   {
     "ID": "TheAssortedArrangement",
@@ -11305,7 +11308,7 @@
     "Pages": [
       "Ultralogic_pg1"
     ],
-    "Modified": "2/25/2021 11:44:50 AM"
+    "Modified": "2021-05-30 9:25:01 PM"
   },
   {
     "ID": "UltraStores",
@@ -11422,7 +11425,7 @@
     "Pages": [
       "UnownCipher_pg1"
     ],
-    "Modified": "2/25/2021 11:46:27 AM"
+    "Modified": "2021-05-30 9:25:19 PM"
   },
   {
     "ID": "unrelatedAnagrams",
@@ -11807,7 +11810,7 @@
     "Pages": [
       "kataWireOrdering_pg1"
     ],
-    "Modified": "2/25/2021 11:54:02 AM"
+    "Modified": "2021-05-30 9:26:40 PM"
   },
   {
     "ID": "WirePlacementModule",
