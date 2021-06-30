@@ -44,7 +44,7 @@
     "Pages": [
       "0_pg1"
     ],
-    "Modified": "2/25/2021 9:15:18 AM"
+    "Modified": "2021-06-29 6:58:19 PM"
   },
   {
     "ID": "100LevelsOfDefusal",
@@ -896,7 +896,7 @@
       "beanboozledAgain_pg3",
       "beanboozledAgain_pg4"
     ],
-    "Modified": "2/25/2021 9:27:50 AM"
+    "Modified": "2021-06-29 6:59:51 PM"
   },
   {
     "ID": "beans",
@@ -1263,7 +1263,7 @@
     "Pages": [
       "boomdas_pg1"
     ],
-    "Modified": "2/25/2021 9:31:17 AM"
+    "Modified": "2021-06-29 7:00:30 PM"
   },
   {
     "ID": "bootTooBig",
@@ -1870,6 +1870,15 @@
     "Modified": "5/11/2021 1:28:54 AM"
   },
   {
+    "ID": "clippingTriangles",
+    "Name": "Clipping Triangles",
+    "Pages": [
+      "clippingTriangles_pg1",
+      "clippingTriangles_pg2"
+    ],
+    "Modified": "2021-06-29 6:57:21 PM"
+  },
+  {
     "ID": "CodeCracker",
     "Name": "Code Cracker",
     "Pages": [
@@ -1962,7 +1971,7 @@
     "Pages": [
       "colorAddition_pg1"
     ],
-    "Modified": "2/25/2021 9:40:36 AM"
+    "Modified": "2021-06-29 7:01:36 PM"
   },
   {
     "ID": "ColorBrailleModule",
@@ -2660,7 +2669,7 @@
       "Currents_pg3",
       "Currents_pg4"
     ],
-    "Modified": "3/4/2021 2:27:31 PM"
+    "Modified": "2021-06-29 7:03:36 PM"
   },
   {
     "ID": "curriculum",
@@ -3176,6 +3185,15 @@
     "Modified": "2021-05-30 8:55:59 PM"
   },
   {
+    "ID": "drippingTriangles",
+    "Name": "Dripping Triangles",
+    "Pages": [
+      "drippingTriangles_pg1",
+      "drippingTriangles_pg2"
+    ],
+    "Modified": "2021-06-29 6:57:29 PM"
+  },
+  {
     "ID": "DIWindow",
     "Name": "Drive-In Window",
     "Pages": [
@@ -3543,7 +3561,7 @@
       "face_perception_pg4",
       "face_perception_pg5"
     ],
-    "Modified": "5/11/2021 1:29:21 AM"
+    "Modified": "2021-06-29 7:05:08 PM"
   },
   {
     "ID": "xelFaceRecognition",
@@ -3806,6 +3824,15 @@
     "Modified": "2/25/2021 10:01:58 AM"
   },
   {
+    "ID": "flippingTriangles",
+    "Name": "Flipping Triangles",
+    "Pages": [
+      "flippingTriangles_pg1",
+      "flippingTriangles_pg2"
+    ],
+    "Modified": "2021-06-29 6:57:36 PM"
+  },
+  {
     "ID": "FloorLights",
     "Name": "Floor Lights",
     "Pages": [
@@ -3829,7 +3856,7 @@
     "Pages": [
       "flyswatting_pg1"
     ],
-    "Modified": "2021-06-23 7:50:01 AM"
+    "Modified": "2021-06-29 7:05:47 PM"
   },
   {
     "ID": "FollowTheLeaderModule",
@@ -5188,6 +5215,14 @@
     "Modified": "2/25/2021 10:24:17 AM"
   },
   {
+    "ID": "kusaNihonglish",
+    "Name": "Kusa Nihonglish",
+    "Pages": [
+      "kusaNihonglish_pg1"
+    ],
+    "Modified": "2021-06-29 6:57:40 PM"
+  },
+  {
     "ID": "kyudoku",
     "Name": "Kyudoku",
     "Pages": [
@@ -5293,6 +5328,14 @@
     "Modified": "2/25/2021 10:25:05 AM"
   },
   {
+    "ID": "leds",
+    "Name": "LEDs",
+    "Pages": [
+      "leds_pg1"
+    ],
+    "Modified": "2021-06-29 6:57:43 PM"
+  },
+  {
     "ID": "leftandRight",
     "Name": "Left and Right",
     "Pages": [
@@ -5320,7 +5363,7 @@
       "LetterGrid_pg6",
       "LetterGrid_pg7"
     ],
-    "Modified": "2021-06-23 8:13:12 AM"
+    "Modified": "2021-06-29 7:08:33 PM"
   },
   {
     "ID": "LetterKeys",
@@ -5398,7 +5441,7 @@
     "Pages": [
       "GSLineEquations_pg1"
     ],
-    "Modified": "2021-06-23 7:50:08 AM"
+    "Modified": "2021-06-29 7:08:44 PM"
   },
   {
     "ID": "linesOfCode",
@@ -6553,7 +6596,7 @@
       "NandNs_pg2",
       "NandNs_pg3"
     ],
-    "Modified": "2/25/2021 10:38:20 AM"
+    "Modified": "2021-06-29 7:10:57 PM"
   },
   {
     "ID": "nameChanger",
@@ -7107,7 +7150,7 @@
       "omegaDestroyer_pg7",
       "omegaDestroyer_pg8"
     ],
-    "Modified": "2/25/2021 10:43:42 AM"
+    "Modified": "2021-06-29 7:12:20 PM"
   },
   {
     "ID": "omegaForget",
@@ -7169,7 +7212,7 @@
       "orangeCipher_pg5",
       "orangeCipher_pg6"
     ],
-    "Modified": "2/25/2021 10:44:36 AM"
+    "Modified": "2021-06-29 7:12:31 PM"
   },
   {
     "ID": "orderedKeys",
@@ -7350,7 +7393,7 @@
       "pwGenerator_pg1",
       "pwGenerator_pg2"
     ],
-    "Modified": "2/25/2021 10:47:11 AM"
+    "Modified": "2021-06-29 7:12:52 PM"
   },
   {
     "ID": "GSPathfinder",
@@ -8202,7 +8245,7 @@
       "regretbFiltering_pg1",
       "regretbFiltering_pg2"
     ],
-    "Modified": "2021-06-23 8:25:25 AM"
+    "Modified": "2021-06-29 7:14:35 PM"
   },
   {
     "ID": "regrettablerelay",
@@ -9299,6 +9342,15 @@
     "Modified": "2/25/2021 11:15:55 AM"
   },
   {
+    "ID": "skippingTriangles",
+    "Name": "Skipping Triangles",
+    "Pages": [
+      "skippingTriangles_pg1",
+      "skippingTriangles_pg2"
+    ],
+    "Modified": "2021-06-29 6:57:51 PM"
+  },
+  {
     "ID": "skyrim",
     "Name": "Skyrim",
     "Pages": [
@@ -9311,6 +9363,15 @@
       "skyrim_pg7"
     ],
     "Modified": "2/25/2021 11:16:50 AM"
+  },
+  {
+    "ID": "slippingTriangles",
+    "Name": "Slipping Triangles",
+    "Pages": [
+      "slippingTriangles_pg1",
+      "slippingTriangles_pg2"
+    ],
+    "Modified": "2021-06-29 6:57:57 PM"
   },
   {
     "ID": "smallCircle",
@@ -9437,7 +9498,7 @@
       "SouvenirModule_pg6",
       "SouvenirModule_pg7"
     ],
-    "Modified": "2021-05-30 9:18:00 PM"
+    "Modified": "2021-06-29 7:17:14 PM"
   },
   {
     "ID": "soyBeans",
@@ -9568,6 +9629,20 @@
     "Modified": "2021-06-23 7:50:32 AM"
   },
   {
+    "ID": "sqlCruel",
+    "Name": "SQL - Cruel",
+    "Pages": [
+      "sqlCruel_pg1",
+      "sqlCruel_pg2",
+      "sqlCruel_pg3",
+      "sqlCruel_pg4",
+      "sqlCruel_pg5",
+      "sqlCruel_pg6",
+      "sqlCruel_pg7"
+    ],
+    "Modified": "2021-06-29 6:58:01 PM"
+  },
+  {
     "ID": "sqlEvil",
     "Name": "SQL - Evil",
     "Pages": [
@@ -9681,7 +9756,7 @@
       "stateOfAggregation_pg5",
       "stateOfAggregation_pg6"
     ],
-    "Modified": "5/11/2021 2:10:25 AM"
+    "Modified": "2021-06-29 7:17:55 PM"
   },
   {
     "ID": "stickyNotes",
@@ -10103,7 +10178,7 @@
     "Pages": [
       "tetrahedron_pg1"
     ],
-    "Modified": "2021-06-23 7:50:42 AM"
+    "Modified": "2021-06-29 7:18:54 PM"
   },
   {
     "ID": "ksmTetraVex",
@@ -10253,7 +10328,7 @@
     "Pages": [
       "TheCalculator_pg1"
     ],
-    "Modified": "2/25/2021 11:25:58 AM"
+    "Modified": "2021-06-29 7:19:14 PM"
   },
   {
     "ID": "TheClockModule",
@@ -11207,6 +11282,15 @@
     "Modified": "3/4/2021 3:01:58 PM"
   },
   {
+    "ID": "tippingTriangles",
+    "Name": "Tipping Triangles",
+    "Pages": [
+      "tippingTriangles_pg1",
+      "tippingTriangles_pg2"
+    ],
+    "Modified": "2021-06-29 6:58:07 PM"
+  },
+  {
     "ID": "toolmods",
     "Name": "Toolmods",
     "Pages": [
@@ -11342,6 +11426,15 @@
       "TribalCouncil_pg3"
     ],
     "Modified": "2/25/2021 11:42:01 AM"
+  },
+  {
+    "ID": "trippingTriangles",
+    "Name": "Tripping Triangles",
+    "Pages": [
+      "trippingTriangles_pg1",
+      "trippingTriangles_pg2"
+    ],
+    "Modified": "2021-06-29 6:58:15 PM"
   },
   {
     "ID": "turnFour",
@@ -12175,7 +12268,7 @@
       "yellowCipher_pg4",
       "yellowCipher_pg5"
     ],
-    "Modified": "2021-06-23 8:42:41 AM"
+    "Modified": "2021-06-29 7:23:14 PM"
   },
   {
     "ID": "yesandno",
@@ -12183,7 +12276,7 @@
     "Pages": [
       "yesandno_pg1"
     ],
-    "Modified": "2/25/2021 11:55:43 AM"
+    "Modified": "2021-06-29 7:23:18 PM"
   },
   {
     "ID": "kataZenerCards",
